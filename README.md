@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Lilboooop
-- 👀 I’m interested in game development but i am beginner
-- 🌱 I’m currently learning unity
-- 💞️ I’m looking to collaborate on unity games with friends
-- 📫 How to reach me crystalg.ty@gmail.com
-
-Im just using this to colab on projects with friends ignore me
+- 👀 I’m interested in cyber security but i am beginner
+- 🌱 I’m currently studying at 42 Lausanne!
+- 📫 How to reach me charlie.bopp@live.com
